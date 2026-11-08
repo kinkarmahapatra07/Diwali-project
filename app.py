@@ -98,11 +98,11 @@ button {
 May this Diwali bring happiness, love,<br>
 peace and prosperity into your life.<br><br>
 May every diya brighten your life<br>
-and every moment bring a new smile.Ar abar ekbar amar torof theke shuba Deepawali!<br>
+and every moment bring a new smile.Aro abar ekbar amar torof theke shuba 
 </div>
 
-<h2>With Love,</h2>
-<h1>Kinkar ❤️</h1>
+<h2>From</h2>
+<h1>Kittu ❤️</h1>
 
 <div class="diyas">🪔 ✨ 🪔</div>
 
